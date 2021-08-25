@@ -1,0 +1,90 @@
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+body{
+	font-family: 'Fjalla One', sans-serif;
+	font-weight:400;
+	text-transform:uppercase;
+}
+main > .container {
+  padding: 60px 15px 0;
+}
+p.margin{
+	margin:60px 0 60px;
+}
+
+.footer {
+  background-color: #f5f5f5;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+code {
+  font-size: 80%;
+}
+
+body{
+	background-color: #fff;
+}
+main{
+	border:25px solid #ffe500;
+}
+.navMargin{
+	padding:10px 50px;
+	margin:10px;
+}
+h1.headLines{
+	font-size:60px;
+}
+div.center{
+	text-align:center;
+}
+img{
+	max-width:100%;
+}
+ul.navbar-nav li a{
+	font-size:0.9rem;
+	color:#333;
+}
+li.nav-item.bottom{
+	list-style-type:disc;
+	padding-right:20px;
+}
+li.nav-item.active.bottom{
+	list-style-type:none;
+	padding-right:20px;
+}
+.headlines{
+	text-align:left;
+	margin-bottom:10px;
+}
+span.float-left{
+	text-align:left;
+}
+div.container{
+	padding:0px 50px;
+}
+div.row.menu{
+	margin-bottom:30px;
+}
+div.items{
+	height:auto;
+	overflow:hidden;
+	margin-bottom:10px;
+}
+.lowercase{
+	text-transform:capitalize;
+	text-align:left;
+}
+div.gap span{
+	position:relative;
+	display:block;
+	margin-top:30px;
+}
+.chef{
+	margin-top:30px;
+}
